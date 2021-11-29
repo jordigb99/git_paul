@@ -1,2 +1,4 @@
 First line
-Second line
+2nd line
+Things to do:
+Git exercise
